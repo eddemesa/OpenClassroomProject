@@ -1,2 +1,2 @@
-OpenclassroomProect
+OpenclassroomProject
 OpenclassroomProject
